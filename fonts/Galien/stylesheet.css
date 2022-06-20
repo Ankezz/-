@@ -1,0 +1,220 @@
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-ExtraBold.eot');
+    src: local('Galien ExtraBold'), local('Galien-ExtraBold'),
+        url('Galien-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Galien-ExtraBold.woff') format('woff'),
+        url('Galien-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-Heavy.eot');
+    src: local('Galien Heavy'), local('Galien-Heavy'),
+        url('Galien-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('Galien-Heavy.woff') format('woff'),
+        url('Galien-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-LightItalic.eot');
+    src: local('Galien Light Italic'), local('Galien-LightItalic'),
+        url('Galien-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Galien-LightItalic.woff') format('woff'),
+        url('Galien-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-ThinItalic.eot');
+    src: local('Galien Thin Italic'), local('Galien-ThinItalic'),
+        url('Galien-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Galien-ThinItalic.woff') format('woff'),
+        url('Galien-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-BlackItalic.eot');
+    src: local('Galien Black Italic'), local('Galien-BlackItalic'),
+        url('Galien-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Galien-BlackItalic.woff') format('woff'),
+        url('Galien-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-BoldItalic.eot');
+    src: local('Galien Bold Italic'), local('Galien-BoldItalic'),
+        url('Galien-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Galien-BoldItalic.woff') format('woff'),
+        url('Galien-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-SemiBold.eot');
+    src: local('Galien SemiBold'), local('Galien-SemiBold'),
+        url('Galien-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Galien-SemiBold.woff') format('woff'),
+        url('Galien-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-UltraLightItalic.eot');
+    src: local('Galien UltraLight Italic'), local('Galien-UltraLightItalic'),
+        url('Galien-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Galien-UltraLightItalic.woff') format('woff'),
+        url('Galien-UltraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-SemiBoldItalic.eot');
+    src: local('Galien SemiBold Italic'), local('Galien-SemiBoldItalic'),
+        url('Galien-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Galien-SemiBoldItalic.woff') format('woff'),
+        url('Galien-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-Light.eot');
+    src: local('Galien Light'), local('Galien-Light'),
+        url('Galien-Light.eot?#iefix') format('embedded-opentype'),
+        url('Galien-Light.woff') format('woff'),
+        url('Galien-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-MediumItalic.eot');
+    src: local('Galien Medium Italic'), local('Galien-MediumItalic'),
+        url('Galien-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Galien-MediumItalic.woff') format('woff'),
+        url('Galien-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-ExtraBoldItalic.eot');
+    src: local('Galien ExtraBold Italic'), local('Galien-ExtraBoldItalic'),
+        url('Galien-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Galien-ExtraBoldItalic.woff') format('woff'),
+        url('Galien-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-Regular.eot');
+    src: local('Galien Regular'), local('Galien-Regular'),
+        url('Galien-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Galien-Regular.woff') format('woff'),
+        url('Galien-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-HeavyItalic.eot');
+    src: local('Galien Heavy Italic'), local('Galien-HeavyItalic'),
+        url('Galien-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('Galien-HeavyItalic.woff') format('woff'),
+        url('Galien-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-Medium.eot');
+    src: local('Galien Medium'), local('Galien-Medium'),
+        url('Galien-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Galien-Medium.woff') format('woff'),
+        url('Galien-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-RegularItalic.eot');
+    src: local('Galien Regular Italic'), local('Galien-RegularItalic'),
+        url('Galien-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('Galien-RegularItalic.woff') format('woff'),
+        url('Galien-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-UltraLight.eot');
+    src: local('Galien UltraLight'), local('Galien-UltraLight'),
+        url('Galien-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('Galien-UltraLight.woff') format('woff'),
+        url('Galien-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-Bold.eot');
+    src: local('Galien Bold'), local('Galien-Bold'),
+        url('Galien-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Galien-Bold.woff') format('woff'),
+        url('Galien-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-Thin.eot');
+    src: local('Galien Thin'), local('Galien-Thin'),
+        url('Galien-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Galien-Thin.woff') format('woff'),
+        url('Galien-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-Black.eot');
+    src: local('Galien Black'), local('Galien-Black'),
+        url('Galien-Black.eot?#iefix') format('embedded-opentype'),
+        url('Galien-Black.woff') format('woff'),
+        url('Galien-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
